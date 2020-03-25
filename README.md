@@ -1,6 +1,6 @@
 # Dynamic Hierarchical Mimicking
 
-Official implementation of our DHM training mechanism as described in [Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives]() (CVPR'20) by [Duo Li](https://github.com/d-li14) and [Qifeng Chen](https://github.com/CQFIO) on CIFAR and ILSVRC2012 benchmarks with the [PyTorch](https://pytorch.org/) framework.
+Official implementation of our DHM training mechanism as described in [Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives](https://arxiv.org/abs/2003.10739) (CVPR'20) by [Duo Li](https://github.com/d-li14) and [Qifeng Chen](https://github.com/CQFIO) on CIFAR-100 and ILSVRC2012 benchmarks with the [PyTorch](https://pytorch.org/) framework.
 
 <p align="center"><img src="fig/arch.png" width="600" /></p>
 
