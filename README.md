@@ -83,7 +83,7 @@ If you find our work useful in your research, please consider citing:
 @InProceedings{Li_2020_CVPR,
 author = {Li, Duo and Chen, Qifeng},
 title = {Dynamic Hierarchical Mimicking Towards Consistent Optimization Objectives},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
 month = {June},
 year = {2020}
 }
