@@ -28,7 +28,7 @@ To do this, you can use the following script: https://raw.githubusercontent.com/
 	</tr>
 	<tr>
 		<td><a href="https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/Eaxq7mz5GMlJqEFQotYCvVQBBtoEJ06UIqHM6siY8VrfFA?e=N8Jebp">DHM</a></td>
-		<td>28.714 / 9.940</td>
+		<td><b>28.714 / 9.940</b></td>
 	</tr>
 	<tr>
 		<td rowspan="2">ResNet-50</td>
@@ -37,7 +37,7 @@ To do this, you can use the following script: https://raw.githubusercontent.com/
 	</tr>
 	<tr>
 		<td><a href="https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EZnzStUddRpKhS7fGxZ3EJkBibquoIgJaqGlq4PVTtug7Q?e=kfZsGG">DHM</a></td>
-		<td>23.430 / 6.764</td>
+		<td><b>23.430 / 6.764</b></td>
 	</tr>
 	<tr>
 		<td rowspan="2">ResNet-101</td>
@@ -46,7 +46,7 @@ To do this, you can use the following script: https://raw.githubusercontent.com/
 	</tr>
 	<tr>
 		<td><a href="https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/Ed3hCtX0EW5Dtq5SCwQbnIgBF8Saqsksjw7IPDecRUJAVQ?e=xr4Cim">DHM</a></td>
-		<td>21.348 / 5.684</td>
+		<td><b>21.348 / 5.684</b></td>
 	</tr>
 	<tr>
 		<td rowspan="2">ResNet-152</td>
@@ -55,7 +55,7 @@ To do this, you can use the following script: https://raw.githubusercontent.com/
 	</tr>
 	<tr>
 		<td><a href="https://hkustconnect-my.sharepoint.com/:u:/g/personal/dlibh_connect_ust_hk/EcyZgN3uW6FDmJinvVxwpYABg6SuvHZftctSdpK9024PKg?e=I3MHYM">DHM</a></td>
-		<td>20.810 / 5.396</td>
+		<td><b>20.810 / 5.396</b></td>
 	</tr>
 </table>
 
